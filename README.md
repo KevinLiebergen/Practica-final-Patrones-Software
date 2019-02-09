@@ -1,5 +1,28 @@
-# Practica-final-Patrones-Software
-Creación de una aplicación para la gestión de una biblioteca con interfaz gráfica para la práctica final de la asignatura Patrones de Software
+# Practica final Patrones Software
+Creación de una aplicación para la gestión de una biblioteca con interfaz gráfica para la práctica final de la asignatura Patrones de Software.
+
+Aplicación realizada sobre la versión 8 de Java (1.8).
+Entorno de desarollo NetBeans versión 9.0.
+
+## Instalación
+
+- File > New Project... > Java Project with Existing Sources > Next. 
+- Selecionar la ruta donde se encuentra el fichero.
+
+## Patrones utilizados
+
+- Patrones de creación:
+  - Patrón Builder.
+  - Patrón Factory Method.
+  - Patrón Singleton.
+  -Patrón Prototype.
+- Patrones esctructurales:
+  - Patrón Facade.
+  - Patrón Bridge.
+- Patrones de comportamiento:
+  - Patrón iterator.
+  - Patrón Observer.
+  - Patrón State.
 
 ## Acceso
 - User: Admin
