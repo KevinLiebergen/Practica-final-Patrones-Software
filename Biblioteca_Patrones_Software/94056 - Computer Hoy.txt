@@ -1,0 +1,13 @@
+
+Datos de la publicacion
+
+ISBN: 89787
+Titulo: Computer Hoy
+Autor/es: Alejandro Gomez, Enrique Villaverde
+Fecha: Thu Feb 01 00:00:00 CET 2007
+
+Datos del usuario
+
+NIF: 94056
+Fecha Prestamo de la publicacion: Sun Jan 06 18:41:20 CET 2019
+Fecha de devolucion de la publicacion: Sun Jan 06 19:58:26 CET 2019
